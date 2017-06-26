@@ -1,0 +1,27 @@
+{
+  "name": "01-webapi-crud-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "web api restful with node.js express mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "api",
+    "restful",
+    "mongodb",
+    "node.js",
+    "express",
+    "mongoose",
+    "crud"
+  ],
+  "author": "Marcio Lima Torquato",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5"
+  }
+}

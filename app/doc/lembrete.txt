@@ -1,0 +1,1 @@
+-> Quando for testar no "POSTMAN" nos metodos POST escolher a opção "x-www-form-urlencoded".
